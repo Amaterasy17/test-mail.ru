@@ -33,6 +33,7 @@
 ## Компонент и примеры его работы:
 
 * Стандартный вид компонента c подписью:
+  
   ![Start Test](https://github.com/Amaterasy17/test-mail.ru/raw/master/screenshots/dafault_figcapture.png)
   
 По условию:
@@ -61,6 +62,7 @@
     `   
 
 Тогда будет следующий результат:
+
 ![Start Test](https://github.com/Amaterasy17/test-mail.ru/raw/master/screenshots/image_5:3.png)
 
 * ### Высота компонента оказалась меньше высоты родителя
@@ -89,6 +91,7 @@
     />
     `  
 ![Start Test](https://github.com/Amaterasy17/test-mail.ru/raw/master/screenshots/image_4:15.png)
+
 Таким образом, видно на примере, что компонент `Figure` подстраивается под размер родителя,
 а также обрезает картинку в заданном соотношении, оставляя центр обрезанной в центре исходной.
 
@@ -122,6 +125,15 @@
 ![Start Test](https://github.com/Amaterasy17/test-mail.ru/raw/master/screenshots/image_3:1.png)
 
 ### Другие примеры работы `Figure`:
-* Закрывающий тег с невалидный src у фото
+
+* Закрывающий тег с невалидным src у фото
 
 ![Start Test](https://github.com/Amaterasy17/test-mail.ru/raw/master/screenshots/not_valid.png)
+
+## Домашнее задание:
+
+Находится в папке homework
+
+
+*Примечание: Так как добавил свою кастомную сборку, пришлось в дальнейшем работать в новом репозитории,
+ссылка на старый репозиторий в виде CRA template, на всякий случай: https://github.com/Amaterasy17/TestMailRu*
