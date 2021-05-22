@@ -1,7 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ReactRefreshWebpackPlugin = require('@pmmmwh/react-refresh-webpack-plugin');
-const ExtractJssPlugin = require("extract-jss-webpack-plugin");
 const ForkTsCheckerPlugin = require('fork-ts-checker-webpack-plugin');
 const ReactJssHmrPlugin = require('react-jss-hmr/webpack');
 const webpack = require('webpack');
@@ -40,14 +39,6 @@ module.exports = {
 				use: 'babel-loader',
 				exclude: /node_modules/,
 			},
-			// {
-			// 	test: /styles.tsx$/,
-			// 	exclude: /node_modules/,
-			// 	use: ExtractJssPlugin.extract({
-			// 		fallback: "style-loader",
-			// 		use: "css-loader"
-			// 	})
-			// },
 			{
 				test: /\.(png|svg|jpg)$/,
 				type: 'asset',
@@ -71,16 +62,6 @@ module.exports = {
 			'node_modules'
 		]
 	},
-	// jssLoader: {
-	// 	plugins: [
-	// 		require('jss-nested'),
-	// 		require('jss-extend'),
-	// 		require('jss-vendor-prefixer'),
-	// 		require('jss-camel-case'),
-	// 		require('jss-props-sort'),
-	// 		require('jss-px')
-	// 	]
-	// },
 	plugins,
 	devServer: {
 		host: 'localhost',

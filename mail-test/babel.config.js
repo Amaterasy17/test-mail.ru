@@ -14,13 +14,6 @@ module.exports = api => {
 		'@babel/preset-typescript'
 	];
 	const plugins = [
-		[
-			{
-				// 'generateScopedName': !isProd ? '[path][name]__[local]' : '[hash:base64]',
-				// 'webpackHotModuleReloading': true,
-				// 'autoResolveMultipleImports': true
-			}
-		],
 		!isProd && !isTest && 'react-refresh/babel',
 		'@babel/plugin-proposal-optional-chaining',
 		'@babel/plugin-proposal-class-properties',
