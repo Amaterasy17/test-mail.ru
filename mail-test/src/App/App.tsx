@@ -4,13 +4,7 @@ import { PreviewDiv } from './styles';
 
 const App: React.FC = () => {
 	return (
-		<div
-			style={{
-				display: 'flex',
-				flexDirection: 'column',
-				justifyContent: 'space-between',
-			}}
-		>
+		<div>
 			<PreviewDiv>
 				<Figure
 					src="https://images.pexels.com/photos/1647214/pexels-photo-1647214.jpeg?dl&fit=crop&crop=entropy&w=640&h=1006"
