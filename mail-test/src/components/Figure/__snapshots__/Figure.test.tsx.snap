@@ -1,0 +1,376 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests of Figure component default width and height with figcaption 1`] = `
+<div
+  class="sc-fujyAs cwgfdV"
+  height="300"
+  width="300"
+>
+  <div
+    class="sc-gtsrHT jOAJgy"
+    height="0"
+  >
+    <div
+      class="sc-dlnjwi kbBcQf"
+    >
+      <div
+        class="sc-hKFxyN bQqzNx"
+      >
+        <div
+          class="loaderRing-0-2-1"
+        >
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d21-0-2-25"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d22-0-2-26"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d23-0-2-27"
+          />
+          <div
+            class="sc-bdnxRM dxUva"
+          />
+        </div>
+        <img
+          alt="Загрузка"
+          class="sc-eCApnc dtPAjT"
+          src="https://images.pexels.com/photos/1647214/pexels-photo-1647214.jpeg?dl&fit=crop&crop=entropy&w=640&h=1006"
+        />
+      </div>
+    </div>
+    <figcaption
+      class="sc-jSFjdj gJENt"
+    >
+      Автор: 
+      <a
+        href="https://www.pexels.com/@simonmigaj"
+      >
+        Simon Migaj
+      </a>
+    </figcaption>
+  </div>
+</div>
+`;
+
+exports[`Tests of Figure component test with not valid src of photo 1`] = `
+<div
+  class="sc-fujyAs cweGFr"
+  height="500"
+  width="300"
+>
+  <div
+    class="sc-gtsrHT jOAJgy"
+    height="0"
+  >
+    <div
+      class="sc-dlnjwi kbBcQf"
+    >
+      <div
+        class="sc-hKFxyN bQqzNx"
+      >
+        <div
+          class="loaderRing-0-2-1"
+        >
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d18-0-2-22"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d19-0-2-23"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d20-0-2-24"
+          />
+          <div
+            class="sc-bdnxRM dxUva"
+          />
+        </div>
+        <img
+          alt="Загрузка"
+          class="sc-eCApnc dtPAjT"
+          src="fakePicture"
+        />
+      </div>
+    </div>
+    <figcaption
+      class="sc-jSFjdj gJENt"
+    />
+  </div>
+</div>
+`;
+
+exports[`Tests of Figure component tests of resizing pictures 1`] = `
+<div
+  class="sc-fujyAs cweGFr"
+  height="500"
+  width="300"
+>
+  <div
+    class="sc-gtsrHT jOAJgy"
+    height="0"
+  >
+    <div
+      class="sc-dlnjwi kbBcQf"
+    >
+      <div
+        class="sc-hKFxyN dgWisQ"
+      >
+        <div
+          class="loaderRing-0-2-1"
+        >
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d0-0-2-4"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d1-0-2-5"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d2-0-2-6"
+          />
+          <div
+            class="sc-bdnxRM dxUva"
+          />
+        </div>
+        <img
+          alt="Загрузка"
+          class="sc-eCApnc dtPAjT"
+          src="https://images.pexels.com/photos/1647214/pexels-photo-1647214.jpeg?dl&fit=crop&crop=entropy&w=640&h=1006"
+        />
+      </div>
+    </div>
+    <figcaption
+      class="sc-jSFjdj gJENt"
+    />
+  </div>
+</div>
+`;
+
+exports[`Tests of Figure component tests of resizing pictures 2`] = `
+<div
+  class="sc-fujyAs cweGFr"
+  height="500"
+  width="300"
+>
+  <div
+    class="sc-gtsrHT jOAJgy"
+    height="0"
+  >
+    <div
+      class="sc-dlnjwi kbBcQf"
+    >
+      <div
+        class="sc-hKFxyN bMLozk"
+      >
+        <div
+          class="loaderRing-0-2-1"
+        >
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d3-0-2-7"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d4-0-2-8"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d5-0-2-9"
+          />
+          <div
+            class="sc-bdnxRM dxUva"
+          />
+        </div>
+        <img
+          alt="Загрузка"
+          class="sc-eCApnc dtPAjT"
+          src="https://images.pexels.com/photos/1647214/pexels-photo-1647214.jpeg?dl&fit=crop&crop=entropy&w=640&h=1006"
+        />
+      </div>
+    </div>
+    <figcaption
+      class="sc-jSFjdj gJENt"
+    />
+  </div>
+</div>
+`;
+
+exports[`Tests of Figure component tests of resizing pictures 3`] = `
+<div
+  class="sc-fujyAs cweGFr"
+  height="500"
+  width="300"
+>
+  <div
+    class="sc-gtsrHT jOAJgy"
+    height="0"
+  >
+    <div
+      class="sc-dlnjwi kbBcQf"
+    >
+      <div
+        class="sc-hKFxyN btDOcX"
+      >
+        <div
+          class="loaderRing-0-2-1"
+        >
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d6-0-2-10"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d7-0-2-11"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d8-0-2-12"
+          />
+          <div
+            class="sc-bdnxRM dxUva"
+          />
+        </div>
+        <img
+          alt="Загрузка"
+          class="sc-eCApnc dtPAjT"
+          src="https://images.pexels.com/photos/1647214/pexels-photo-1647214.jpeg?dl&fit=crop&crop=entropy&w=640&h=1006"
+        />
+      </div>
+    </div>
+    <figcaption
+      class="sc-jSFjdj gJENt"
+    />
+  </div>
+</div>
+`;
+
+exports[`Tests of Figure component tests of resizing pictures 4`] = `
+<div
+  class="sc-fujyAs cwfECj"
+  height="100"
+  width="300"
+>
+  <div
+    class="sc-gtsrHT jOAJgy"
+    height="0"
+  >
+    <div
+      class="sc-dlnjwi kbBcQf"
+    >
+      <div
+        class="sc-hKFxyN bQqzNx"
+      >
+        <div
+          class="loaderRing-0-2-1"
+        >
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d9-0-2-13"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d10-0-2-14"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d11-0-2-15"
+          />
+          <div
+            class="sc-bdnxRM dxUva"
+          />
+        </div>
+        <img
+          alt="Загрузка"
+          class="sc-eCApnc dtPAjT"
+          src="https://images.pexels.com/photos/1647214/pexels-photo-1647214.jpeg?dl&fit=crop&crop=entropy&w=640&h=1006"
+        />
+      </div>
+    </div>
+    <figcaption
+      class="sc-jSFjdj gJENt"
+    />
+  </div>
+</div>
+`;
+
+exports[`Tests of Figure component tests of resizing pictures 5`] = `
+<div
+  class="sc-fujyAs cweGFr"
+  height="500"
+  width="300"
+>
+  <div
+    class="sc-gtsrHT jOAJgy"
+    height="0"
+  >
+    <div
+      class="sc-dlnjwi kbBcQf"
+    >
+      <div
+        class="sc-hKFxyN frDKwB"
+      >
+        <div
+          class="loaderRing-0-2-1"
+        >
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d12-0-2-16"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d13-0-2-17"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d14-0-2-18"
+          />
+          <div
+            class="sc-bdnxRM dxUva"
+          />
+        </div>
+        <img
+          alt="Загрузка"
+          class="sc-eCApnc dtPAjT"
+          src="https://images.pexels.com/photos/1647214/pexels-photo-1647214.jpeg?dl&fit=crop&crop=entropy&w=640&h=1006"
+        />
+      </div>
+    </div>
+    <figcaption
+      class="sc-jSFjdj gJENt"
+    />
+  </div>
+</div>
+`;
+
+exports[`Tests of Figure component tests of resizing pictures 6`] = `
+<div
+  class="sc-fujyAs cweGFr"
+  height="500"
+  width="300"
+>
+  <div
+    class="sc-gtsrHT jOAJgy"
+    height="0"
+  >
+    <div
+      class="sc-dlnjwi kbBcQf"
+    >
+      <div
+        class="sc-hKFxyN dJXxJ"
+      >
+        <div
+          class="loaderRing-0-2-1"
+        >
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d15-0-2-19"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d16-0-2-20"
+          />
+          <div
+            class="sc-bdnxRM dxUva loaderRingPart-0-2-2 loaderAnimationRing-0-2-3 loaderAnimationRing-d17-0-2-21"
+          />
+          <div
+            class="sc-bdnxRM dxUva"
+          />
+        </div>
+        <img
+          alt="Загрузка"
+          class="sc-eCApnc dtPAjT"
+          src="https://images.pexels.com/photos/1647214/pexels-photo-1647214.jpeg?dl&fit=crop&crop=entropy&w=640&h=1006"
+        />
+      </div>
+    </div>
+    <figcaption
+      class="sc-jSFjdj gJENt"
+    />
+  </div>
+</div>
+`;
