@@ -1,4 +1,4 @@
-module.exports = api => {
+module.exports = (api) => {
 	const isProd = process.env.NODE_ENV === 'production';
 	const isTest = process.env.NODE_ENV === 'test';
 	api.cache.forever();
@@ -11,7 +11,7 @@ module.exports = api => {
 				runtime: 'automatic',
 			},
 		],
-		'@babel/preset-typescript'
+		'@babel/preset-typescript',
 	];
 	const plugins = [
 		!isProd && !isTest && 'react-refresh/babel',
@@ -20,11 +20,11 @@ module.exports = api => {
 		'babel-plugin-styled-components',
 		'babel-plugin-jss-simple',
 		'@babel/plugin-transform-runtime',
-		"@babel/proposal-object-rest-spread"
+		'@babel/proposal-object-rest-spread',
 	].filter(Boolean);
 
 	return {
 		presets,
-		plugins
-	}
-}
+		plugins,
+	};
+};
